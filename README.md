@@ -1,6 +1,6 @@
 ## Hi there 👋
 
--#<img align="right" alt="coding" width="400"scr=<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/deeabb44-b7dd-47a7-9e90-b1ac3c2cad64" />
+-#<img align="right" alt="coding" width="400"scr=<img width="400" https://www.ujjwalkhatri.in/logoanimation>
 >
 **gangarapusurya-tech/gangarapusurya-tech**   GitHub profile.
 
