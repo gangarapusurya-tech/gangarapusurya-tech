@@ -1,7 +1,7 @@
 ## Hi there 👋
 
  
-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/9c966417-a54c-4f07-9a7d-97d95bef3d0e" />
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/9c966417-a54c-4f07-9a7d-97d95bef3d0e" />
 
 >
 **gangarapusurya-tech/gangarapusurya-tech**   GitHub profile.
