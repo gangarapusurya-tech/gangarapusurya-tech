@@ -1,6 +1,6 @@
 ## Hi there 👋
 
--#<img align="right" alt="coding" width="400"scr=<img width="400" 
+ 
 <img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/9c966417-a54c-4f07-9a7d-97d95bef3d0e" />
 
 >
