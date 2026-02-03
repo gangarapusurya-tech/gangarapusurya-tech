@@ -1,11 +1,11 @@
 ## Hi there 👋
 
--#<img align="right" alt="coding" width="400"scr=<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/deeabb44-b7dd-47a7-9e90-b1ac3c2cad64" />
+-#<img align="right" alt="coding" width="400"scr=<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/deeabb44-b7dd-47a7-9e90-b1ac3c2cad64" />
 >
-**gangarapusurya-tech/gangarapusurya-tech**  appears on your GitHub profile.
+**gangarapusurya-tech/gangarapusurya-tech**   GitHub profile.
 
 # 💫 About Me:
-WELCOME TO MY GITHUB PROFILE <br><br>MYSELF  GANGARAPUSURYA,<br> I'M B-TECH STUDENT,<br>CSE(COMPUTER SCIENCE AND ENGINEERING),<br>
+WELCOME TO MY GITHUB PROFILE <br><br>MYSELF  GANGARAPU SURYA,<br> I'M B-TECH STUDENT,<br>CSE(COMPUTER SCIENCE AND ENGINEERING),<br>
 <br>*coding,<br>1.python,<br>2.java,<br>c, c++,<br>AWS,<br>cloud computing
 
 
