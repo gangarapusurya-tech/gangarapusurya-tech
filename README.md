@@ -3,16 +3,14 @@
  
 <img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/9c966417-a54c-4f07-9a7d-97d95bef3d0e" />
 
->
-**gangarapusurya-tech/gangarapusurya-tech**   GitHub profile.
+❤️WELCOME TO MY GITHUB PROFILE ❤️  .
 
 # 💫 About Me:
-WELCOME TO MY GITHUB PROFILE <br><br>MYSELF  GANGARAPU SURYA,<br> I'M B-TECH STUDENT,<br>CSE(COMPUTER SCIENCE AND ENGINEERING),<br>
-<br>*coding,<br>1.python,<br>2.java,<br>c, c++,<br>3.AWS,<br>4.cloud computing
+WELCOME TO MY GITHUB PROFILE🫡 <br><br>MYSELF  GANGARAPU SURYA <br>1.c,c++.<br>2.java.<br>python.<bbr>3.dsa,<br>4.cloud computing,<br>5.aws,<br>.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]https://www.instagram.com/_thisis_surya?igsh=MXRuZndtc3lwOGtnOQ== [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/gangarapu-surya-surya-5306b4338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]https://youtube.com/@itzmisurya?si=QZQj_alUG8ZsiEIt [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gangarapusurya1@gail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]https://www.instagram.com/_thisis_surya?igsh=MXRuZndtc3lwOGtnOQ== [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/gangarapu-surya-surya-5306b4338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]https://youtube.com/@itzmisurya?si=QZQj_alUG8ZsiEIt [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](Gmailto:gangarapusurya1@gail.com). 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
